@@ -1,0 +1,7 @@
+@inproceedings{REPO330,
+    author = "Liu, Zhikang and Zhou, Yiming and Xu, Yuansheng and Wang, Zilei",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    pages = "20402--20411",
+    title = "{SimpleNet: A Simple Network for Image Anomaly Detection and Localization}",
+    year = "2023"
+}
